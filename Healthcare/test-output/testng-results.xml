@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31612" started-at="2023-01-02T01:20:51 IST" finished-at="2023-01-02T01:21:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31612" started-at="2023-01-02T01:20:51 IST" finished-at="2023-01-02T01:21:23 IST">
+      <class name="adminTask.AddProducts">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:adminTask.AddProducts@10a035a0]" name="launchApp" is-config="true" duration-ms="10950" started-at="2023-01-02T01:20:51 IST" finished-at="2023-01-02T01:21:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="addProducts()[pri:0, instance:adminTask.AddProducts@10a035a0]" name="addProducts" duration-ms="19136" started-at="2023-01-02T01:21:02 IST" finished-at="2023-01-02T01:21:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProducts -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:adminTask.AddProducts@10a035a0]" name="closeBrowser" is-config="true" duration-ms="1399" started-at="2023-01-02T01:21:22 IST" finished-at="2023-01-02T01:21:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- adminTask.AddProducts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
