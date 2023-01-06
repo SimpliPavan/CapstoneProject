@@ -1,0 +1,1 @@
+{"uuid":"98e6839e-ff93-4e4d-b8b9-a3601efee969","name":"Tests.ManageProductTest","children":["7fc368b6-8781-462f-a7e6-55a0a2d66f22"],"befores":[{"name":"createBrowserObject","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1672838824846,"stop":1672838838414}],"afters":[],"start":1672838824774,"stop":1672838847601}

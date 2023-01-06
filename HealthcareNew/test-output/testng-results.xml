@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38698" started-at="2023-01-05T18:27:56 IST" finished-at="2023-01-05T18:28:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38698" started-at="2023-01-05T18:27:56 IST" finished-at="2023-01-05T18:28:35 IST">
+      <class name="Tests.ManageProductTest">
+        <test-method status="PASS" signature="createBrowserObject()[pri:0, instance:Tests.ManageProductTest@4f6ee6e4]" name="createBrowserObject" is-config="true" duration-ms="14930" started-at="2023-01-05T18:27:57 IST" finished-at="2023-01-05T18:28:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBrowserObject -->
+        <test-method status="PASS" signature="manageProductTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:Tests.ManageProductTest@4f6ee6e4]" name="manageProductTest" duration-ms="9625" started-at="2023-01-05T18:28:16 IST" data-provider="getData2" finished-at="2023-01-05T18:28:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Generic_Medicine]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[For Fever, Cold Etc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cold-drug]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kapla]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Best medicine for cold]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[C:\\Users\\PAVANKUMAR\\Desktop\\capestone project\\Med1.jpg]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Medicare - cold-drug]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[//a[contains(@href, '/medicare/show/7/product')]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageProductTest -->
+        <test-method status="PASS" signature="manageProductTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:Tests.ManageProductTest@4f6ee6e4]" name="manageProductTest" duration-ms="9581" started-at="2023-01-05T18:28:26 IST" data-provider="getData2" finished-at="2023-01-05T18:28:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Generic_Medicine]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[For Fever, Cold Etc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cold-flu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dolo625]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Best medicine for cold and flu]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[C:\\Users\\PAVANKUMAR\\Desktop\\capestone project\\Med2.png]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Medicare - cold-flu]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[//a[contains(@href, '/medicare/show/13/product')]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageProductTest -->
+      </class> <!-- Tests.ManageProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
